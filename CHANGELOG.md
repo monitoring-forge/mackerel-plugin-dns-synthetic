@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.0.14](https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/compare/v0.0.13...v0.0.14) - 2026-08-03
+
+- go: bump the dependencies group across 1 directory with 5 updates by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/38
+- Sync files with `monitoring-forge/github-common` by @monitoring-forge-files-sync-action[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/40
+
 ## [v0.0.13](https://github.com/kazeburo/mackerel-plugin-dns-synthetic/compare/v0.0.12...v0.0.13) - 2026-07-10
 
 - ci: bump the dependencies group across 1 directory with 3 updates by @dependabot[bot] in https://github.com/kazeburo/mackerel-plugin-dns-synthetic/pull/31
