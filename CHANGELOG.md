@@ -1,5 +1,19 @@
 # Changelog
 
+## [v0.0.14](https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/compare/v0.0.13...v0.0.14) - 2026-10-30
+
+- go: bump the dependencies group across 1 directory with 5 updates by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/38
+- Sync files with `monitoring-forge/github-common` by @monitoring-forge-files-sync-action[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/40
+- Sync files with `monitoring-forge/github-common` by @monitoring-forge-files-sync-action[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/42
+- ci: bump Songmu/tagpr from 1.20.0 to 1.21.1 in the tagpr group by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/47
+- go: bump the dependencies group across 1 directory with 8 updates by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/46
+- ci: bump the dependencies group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/48
+- ci: bump Songmu/tagpr from 1.21.1 to 1.21.2 in the tagpr group by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/50
+- go: bump the dependencies group with 4 updates by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/49
+- ci: bump Songmu/tagpr from 1.21.2 to 1.21.3 in the tagpr group by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/51
+- go: bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/52
+- ci: bump Songmu/tagpr from 1.21.3 to 1.21.4 in the tagpr group by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/55
+
 ## [v0.0.13](https://github.com/kazeburo/mackerel-plugin-dns-synthetic/compare/v0.0.12...v0.0.13) - 2026-07-10
 
 - ci: bump the dependencies group across 1 directory with 3 updates by @dependabot[bot] in https://github.com/kazeburo/mackerel-plugin-dns-synthetic/pull/31
