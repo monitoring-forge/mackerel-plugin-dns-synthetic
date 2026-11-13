@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.0.15](https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/compare/v0.0.14...v0.0.15) - 2026-11-13
+
+- ci: bump Songmu/tagpr from 1.21.4 to 1.22.0 in the tagpr group by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/57
+
 ## [v0.0.14](https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/compare/v0.0.13...v0.0.14) - 2026-11-01
 
 - go: bump the dependencies group across 1 directory with 5 updates by @dependabot[bot] in https://github.com/monitoring-forge/mackerel-plugin-dns-synthetic/pull/38
