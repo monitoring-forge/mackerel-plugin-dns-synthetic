@@ -7,7 +7,7 @@ require (
 	github.com/mackerelio/go-mackerel-plugin v0.1.6
 )
 
-require golang.org/x/net v0.62.0 // indirect
+require golang.org/x/net v0.63.0 // indirect
 
 require (
 	github.com/mackerelio/golib v1.2.2 // indirect
